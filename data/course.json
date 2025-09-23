@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ]
+  ],
+  "legacy_uid": "54d3a96f-cbcc-5f17-50af-c38aaeee289e",
+  "instructors": {
+    "content": [
+      "9609c386-5198-6de4-e7bb-27577049df1f",
+      "b3a30a54-8cc4-7fa6-2ffc-75707b9270f0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6e442640-ad65-9f5c-1c6c-77d8254e7df1",
+    "website": "5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007"
+  },
+  "course_title": "Advanced Chemical Experimentation and Instrumentation",
+  "course_description": "5.33 focuses on advanced experimentation, with particular emphasis on chemical synthesis and the fundamentals of quantum chemistry, illustrated through molecular spectroscopy. The written and oral presentation of experimental results is also emphasized in the course.\n\nAcknowledgements\n----------------\n\nThe materials for 5.33 reflect the work of many faculty members associated with this course over the years.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.  \n  \n[Legal Notice](/terms/)\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.33",
+  "course_image_thumbnail": {
+    "content": "1befe867-c797-c9ee-3878-0ff59be4818f",
+    "website": "5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "3a137240-acf1-4563-8dba-1b954b8f1aa9",
+  "site_short_id": "5.33-fall-2007",
+  "site_url_path": "courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007",
+  "title": "Course Metadata"
+}
