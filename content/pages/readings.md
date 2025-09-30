@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides a list of suggested readings for each experiment.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -73,7 +75,7 @@ Forster, Th. "Transfer Mechanisms of Electronic Excitation." _Discussions of the
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Cross, A. J., and G. R. Fleming. "Influence of Inhibitor Binding on the Internal Motions of Lysozyme." _Biophysical Journal_ 50 (1986): 507. ({{% resource_link "20b35984-efbf-4f03-8bc4-41733e622565" "PDF - 1.1 MB" %}}){{< sup "#" >}}
+Cross, A. J., and G. R. Fleming. "Influence of Inhibitor Binding on the Internal Motions of Lysozyme." _Biophysical Journal_ 50 (1986): 507. ([PDF - 1.1 MB](http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=1329727&blobtype=pdf)){{< sup "#" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Laplaza, C. E., et al. "Dinitrogen Cleavage by Three-Coordinate Molybdenum (III)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Cummins, C. C. "Reductive Cleavage and Related Reactions Leading to Molybdenum-element Multiple Bonds: New Pathways Offered by Three-coordinate Molybdenum (III)." _Chemical Communications_ (1998): 1777-1786. ({{% resource_link "5a9554e4-1c6e-4b62-8df4-af6ed0be8256" "PDF" %}}){{< sup "#" >}}
+Cummins, C. C. "Reductive Cleavage and Related Reactions Leading to Molybdenum-element Multiple Bonds: New Pathways Offered by Three-coordinate Molybdenum (III)." _Chemical Communications_ (1998): 1777-1786. ([PDF](http://www.rsc.org/delivery/_ArticleLinking/DisplayArticleForFree.cfm?doi=a802402b&JournalCode=CC)){{< sup "#" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

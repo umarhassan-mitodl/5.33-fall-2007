@@ -4,6 +4,8 @@ description: Lecture notes on principles for describing molecular spectroscopy.
 file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/13e358b92c7768bc31be5c1a8a8713ab_molecspec.pdf
 file_size: 200184
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

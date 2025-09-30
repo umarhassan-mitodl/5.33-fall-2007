@@ -4,6 +4,8 @@ description: 'Appendix to Lab Experiment #3 on Two Coupled Oscillators.'
 file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/3d7c34e0217eaf63bdfde6ebdc0b44eb_laser_appendix1.pdf
 file_size: 50645
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

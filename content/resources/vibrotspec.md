@@ -5,6 +5,8 @@ description: Lecture notes on vibrational-rotational spectrum of heteronuclear d
 file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/a753a15a2d097f4e20b22f15ab093cfe_vibrotspec.pdf
 file_size: 149770
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

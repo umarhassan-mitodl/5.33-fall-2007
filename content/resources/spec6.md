@@ -5,6 +5,8 @@ description: This course inculdes information on types of electronic transitions
 file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/478cab00b0a8986721cee39d8eb5fd06_spec6.pdf
 file_size: 214707
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

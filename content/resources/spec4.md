@@ -7,6 +7,8 @@ description: This course inculdes information on what variables do we need to ch
 file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/f184fdf4fa64a8f384a723e255053bec_spec4.pdf
 file_size: 280703
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

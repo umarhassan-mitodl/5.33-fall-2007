@@ -5,6 +5,8 @@ description: Lecture notes on the classical model of spectroscopy and the classi
 file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/44c1091dd46def8c45b6271479d0a136_classicalspec.pdf
 file_size: 198212
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
