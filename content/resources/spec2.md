@@ -6,8 +6,6 @@ description: This resource includes information on classical equation of motion 
 file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/fc856998d9f70cba0f40919429835b72_spec2.pdf
 file_size: 266931
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

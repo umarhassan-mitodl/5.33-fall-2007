@@ -4,8 +4,6 @@ description: Lecture notes on time and frequency-domain spectroscopy.
 file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/213aa2aa64e8961de35b2e2f4ddf6372_timefreqspec.pdf
 file_size: 241552
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

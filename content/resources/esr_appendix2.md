@@ -8,8 +8,6 @@ description: This appendix describes the use of Gaussian 98W software for runnin
 file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/9edd61eeef39b5a4cdc61dc86549196c_esr_appendix2.pdf
 file_size: 253130
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

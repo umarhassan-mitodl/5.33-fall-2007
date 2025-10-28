@@ -4,8 +4,6 @@ description: Lecture notes with an introduction to spectroscopy.
 file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/a93b4253d611fdbafc605c2ff9764aa6_introspec.pdf
 file_size: 206258
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
